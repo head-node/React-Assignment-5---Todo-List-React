@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles.css";
+import "../styles/styles.css";
 import TodoList from "./TodoList";
 
 export default function App() {
